@@ -7,3 +7,15 @@ xhofe/alist:latest
 linuxserver/qbittorrent
 busybox
 xhongc/music_tag_web:latest
+sanjusss/aliyun-ddns
+dockerproxy.com/library/alpine
+tinymediamanager/tinymediamanager:4-latest
+wiznote/wizserver
+nyanmisaka/jellyfin
+whyour/qinglong
+soulteary/flare
+likun7981/hlink
+garethflowers/svn-server
+corentinth/it-tools
+centos
+ubuntu
