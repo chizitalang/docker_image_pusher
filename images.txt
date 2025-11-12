@@ -1,4 +1,5 @@
-jeessy/ddns-go 
+lss233/kirara-agent-framework:latest
+#jeessy/ddns-go 
 #alpine/git
 #postgres:latest
 #nginx
