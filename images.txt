@@ -1,5 +1,6 @@
-gitea/gitea
-pypiserver/pypiserver
+alpine
+#gitea/gitea
+#pypiserver/pypiserver
 #nousresearch/hermes-agent:latest
 #gzxhwq/sing-box
 #mzz2017/v2raya
