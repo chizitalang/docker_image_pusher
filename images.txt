@@ -1,4 +1,4 @@
-autonomousagents/hermes:main
+nousresearch/hermes-agent:latest
 #gzxhwq/sing-box
 #mzz2017/v2raya
 #v2fly/v2fly-core:latest
