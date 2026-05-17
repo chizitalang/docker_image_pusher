@@ -50,11 +50,11 @@ python:3.11-slim
 #alpine
 #gitea/gitea
 #pypiserver/pypiserver
-nousresearch/hermes-agent:latest
+# nousresearch/hermes-agent:latest
 #gzxhwq/sing-box
 #mzz2017/v2raya
 #v2fly/v2fly-core:latest
-#ghcr.io/openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:latest
 #anthropic/claude-code:latest
 
 #lss233/kirara-agent-framework:latest
