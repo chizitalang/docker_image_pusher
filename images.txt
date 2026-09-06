@@ -3,9 +3,9 @@
 # ============================================
 # CI/CD Stack 必需镜像
 # ============================================
-gitea/gitea:latest
-pypiserver/pypiserver:latest
-python:3.11-slim
+# gitea/gitea:latest
+# pypiserver/pypiserver:latest
+# python:3.11-slim
 
 # ============================================
 # 常用基础镜像
@@ -35,7 +35,7 @@ python:3.11-slim
 # ============================================
 # Web 服务
 # ============================================
-# nginx
+nginx
 # nginx:alpine
 # traefik:v2.11
 
@@ -56,7 +56,7 @@ python:3.11-slim
 #gzxhwq/sing-box
 #mzz2017/v2raya
 #v2fly/v2fly-core:latest
-ghcr.io/openclaw/openclaw:latest
+# ghcr.io/openclaw/openclaw:latest
 #anthropic/claude-code:latest
 
 #lss233/kirara-agent-framework:latest
