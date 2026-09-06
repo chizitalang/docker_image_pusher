@@ -1,4 +1,4 @@
-haierkeys/fast-note-sync-service
+# haierkeys/fast-note-sync-service
 
 # ============================================
 # CI/CD Stack 必需镜像
