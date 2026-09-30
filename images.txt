@@ -92,7 +92,5 @@ ghcr.io/openclaw/openclaw:latest
 #likun7981/hlink
 #garethflowers/svn-server
 #corentinth/it-tools
-#centos
-#ubuntu
 #kylemanna/openvpn
 #mzz2017/v2raya
