@@ -1,7 +1,6 @@
+ghcr.io/linuxserver/calibre-web:latest
+docker.io/deluan/navidrome:latest
 
-
-lscr.io/linuxserver/navidrome:latest
-lscr.io/linuxserver/calibre-web:latest
 
 # haierkeys/fast-note-sync-service
 
