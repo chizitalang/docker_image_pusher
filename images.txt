@@ -1,5 +1,10 @@
-ghcr.io/linuxserver/calibre-web:latest
-docker.io/deluan/navidrome:latest
+# ============================================
+# CWA 电子书（2026-10-02，自动导入+刮削）
+# ============================================
+crocodilestick/calibre-web-automated:latest
+
+# ghcr.io/linuxserver/calibre-web:latest
+# docker.io/deluan/navidrome:latest
 
 
 # haierkeys/fast-note-sync-service
