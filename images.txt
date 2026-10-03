@@ -1,5 +1,8 @@
+# MoviePilot v3 最新版（2026-10-03）
+jxxghp/moviepilot-v3:latest
+
 # MoviePilot 自动媒体管家（2026-10-03）
-jxxghp/moviepilot-v2:latest
+# jxxghp/moviepilot-v2:latest
 
 # ============================================
 # Alist 网盘聚合（2026-10-03）
