@@ -1,3 +1,6 @@
+# MoviePilot 自动媒体管家（2026-10-03）
+jxxghp/moviepilot-v2:latest
+
 # ============================================
 # Alist 网盘聚合（2026-10-03）
 # ============================================
@@ -89,7 +92,7 @@
 # nginx
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+# xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # linuxserver/qbittorrent
