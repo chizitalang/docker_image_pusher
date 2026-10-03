@@ -1,7 +1,10 @@
 # ============================================
+# Alist 网盘聚合（2026-10-03）
+# ============================================
+# ============================================
 # CWA 电子书（2026-10-02，自动导入+刮削）
 # ============================================
-crocodilestick/calibre-web-automated:latest
+# crocodilestick/calibre-web-automated:latest
 
 # ghcr.io/linuxserver/calibre-web:latest
 # docker.io/deluan/navidrome:latest
@@ -86,7 +89,7 @@ crocodilestick/calibre-web-automated:latest
 # nginx
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-# xhofe/alist:latest
+xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # linuxserver/qbittorrent
