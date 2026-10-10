@@ -1,5 +1,5 @@
 # MoviePilot v3 最新版（2026-10-03）
-jxxghp/moviepilot-v3:latest
+# jxxghp/moviepilot-v3:latest
 
 # MoviePilot 自动媒体管家（2026-10-03）
 # jxxghp/moviepilot-v2:latest
@@ -111,3 +111,9 @@ jxxghp/moviepilot-v3:latest
 # garethflowers/svn-server
 # corentinth/it-tools
 # kylemanna/openvpn
+
+# ============================================
+# CookieCloud 自建服务器（2026-10-10）
+# 浏览器插件同步站点 Cookie → MoviePilot
+# ============================================
+easychen/cookiecloud:latest
