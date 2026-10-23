@@ -116,7 +116,7 @@
 # CookieCloud 自建服务器（2026-10-10）
 # 浏览器插件同步站点 Cookie → MoviePilot
 # ============================================
-easychen/cookiecloud:latest
+# easychen/cookiecloud:latest
 
 # ============================================
 # Hermes Agent v0.22.4 稳定版（2026-10-22）
