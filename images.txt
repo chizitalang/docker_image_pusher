@@ -133,3 +133,5 @@
 # gitea/gitea:28.2.0  # 2026-10-23 已同步（gitea 1.26.1→28.2.0 完成）
 # openclaw 最新版升级 2026-10-23
 openclaw/openclaw:latest
+# ddns-go v6.17.7 升级 2026-10-23
+jeessy2/ddns-go:v6.17.7
