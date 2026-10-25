@@ -138,4 +138,4 @@
 # sing-box 1.14.3 升级 2026-10-23
 # ghcr.io/sagernet/sing-box:v1.14.3  # 2026-10-23 已同步（1.13.11→1.14.3 完成；官方镜像已从 docker.io 迁至 ghcr.io）
 # openlist 替代 alist 迁移 2026-10-23
-openlistteam/openlist:latest
+# openlistteam/openlist:latest  # 2026-10-23 已同步（alist→OpenList v4.2.8 迁移完成）
