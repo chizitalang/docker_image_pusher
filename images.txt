@@ -129,3 +129,5 @@
 # jellyfin/jellyfin:10.11.9  # 2026-10-23 已同步（升级第二跳完成）
 # qbittorrent 5.3.0 升级 2026-10-23
 # linuxserver/qbittorrent:latest  # 2026-10-23 已同步（qb 5.3.0 升级完成）
+# gitea 28.2.0 升级 2026-10-23
+gitea/gitea:28.2.0
