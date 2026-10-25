@@ -125,3 +125,5 @@
 # nousresearch/hermes-agent:v0.22.4
 # jellyfin 10.10.7 升级第一跳 2026-10-23
 # nyanmisaka/jellyfin:latest  # 2026-10-23 jellyfin 10.10.7 已同步（升级第一跳完成）
+# jellyfin 官方 10.11.9 升级第二跳 2026-10-23
+jellyfin/jellyfin:10.11.9
