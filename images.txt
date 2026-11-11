@@ -145,3 +145,4 @@
 # Gitea Actions runner + Python 构建镜像 2026-11-11
 gitea/act_runner:latest
 python:3.12-slim
+python:3.12-bookworm
