@@ -104,8 +104,6 @@ jobs:
                 continue
             fi
         
-            echo "docker pull $line"
-            docker pull $line
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             echo "platform is $platform"
             # 如果存在架构信息 将架构信息拼到镜像名称前面
@@ -137,16 +135,12 @@ jobs:
             # 将@sha256:等字符删除
             image_name_tag="${image_name_tag%%@*}"
             new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$platform_prefix$name_space_prefix$image_name_tag"
-            echo "docker tag $image $new_image"
-            docker tag $image $new_image
-            echo "docker push $new_image"
-            docker push $new_image
+            echo "skopeo copy $image -> $new_image"
+            skopeo copy --retry-times 3 "docker://$image" "docker://$new_image"
             echo "开始清理磁盘空间"
             echo "=============================================================================="
             df -hT
             echo "=============================================================================="
-            docker rmi $image
-            docker rmi $new_image
             echo "磁盘空间清理完毕"
             echo "=============================================================================="
             df -hT
