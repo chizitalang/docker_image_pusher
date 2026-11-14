@@ -143,6 +143,8 @@
 # tailscale/tailscale:latest  # 2026-10-29 已同步（最终复用 QNAP 官方 qpkg，容器方案未启用）
 
 # Gitea Actions runner + Python 构建镜像 2026-11-11
-gitea/act_runner:latest
-python:3.12-slim
-python:3.12-bookworm
+# gitea/act_runner:latest  # 2026-11-11 已同步
+# python:3.12-slim  # 2026-11-11 已同步
+# python:3.12-bookworm
+# hermes v0.23.1 升级 2026-11-14
+nousresearch/hermes-agent:v0.23.1
