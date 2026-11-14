@@ -147,4 +147,6 @@
 # python:3.12-slim  # 2026-11-11 已同步
 # python:3.12-bookworm
 # hermes v0.23.1 升级 2026-11-14
-nousresearch/hermes-agent:v0.23.1
+# nousresearch/hermes-agent:v0.23.1  # 2026-11-14 已同步
+# openclaw 2026.11.3 升级 2026-11-14
+openclaw/openclaw:2026.11.3
