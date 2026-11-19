@@ -150,3 +150,6 @@
 # nousresearch/hermes-agent:v0.23.1  # 2026-11-14 已同步
 # openclaw 2026.11.3 升级 2026-11-14
 openclaw/openclaw:2026.11.3
+
+# sing-box 1.14.4 升级 2026-11-19（修复 Hysteria2 兼容性）
+ghcr.io/sagernet/sing-box:v1.14.4
